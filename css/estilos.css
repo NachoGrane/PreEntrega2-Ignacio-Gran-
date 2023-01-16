@@ -44,7 +44,7 @@
 main{
     height: 100vh;
     width: 100%;
-    background-image: url(../Imagenes/Main.jpg);
+    background-image: url(./imagenes/Main.jpg);
     background-size: cover;
     font-family: 'Roboto', sans-serif;
 }
@@ -52,7 +52,7 @@ main{
 .main-recording{
     height: 100vh;
     width: 100%;
-    background-image: url(../Imagenes/Recording\ 1.jpg);
+    background-image: url(../imagenes/Recording\ 1.jpg);
     background-size: cover;
     font-family: 'Roboto', sans-serif;
 
@@ -61,7 +61,7 @@ main{
 .main-mixing{
     height: 100vh;
     width: 100%;
-    background-image: url(../Imagenes/Mixing.jpg);
+    background-image: url(../imagenes/Mixing.jpg);
     background-size: cover;
     font-family: 'Roboto', sans-serif;
 
@@ -70,7 +70,7 @@ main{
 .main-mastering{
     height: 100vh;
     width: 100%;
-    background-image: url(../Imagenes/Mastering.jpg);
+    background-image: url(../imagenes/Mastering.jpg);
     background-size: cover;
     font-family: 'Roboto', sans-serif;
 
